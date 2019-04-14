@@ -1,0 +1,20 @@
+{
+  "name": "open_source_cs",
+  "version": "1.0.0",
+  "description": "Web app for OSSO CS Degree",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "express-rate-limit": "^3.4.0",
+    "express-validator": "^5.3.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
