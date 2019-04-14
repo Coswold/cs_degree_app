@@ -19,6 +19,7 @@ A web app that will help students of the [OSSU CS Degree Program](https://github
 * Message board for each class
 * List or web of classes available based on progress. i.e. Only show classes that user has completed the prereqs for.
 * Dynamic way to update curriculum. (Scrape from github? API's from class website? etc.?)
+* Generate PDF Certificate/Degree after completion
 
 ## Challenges
 
