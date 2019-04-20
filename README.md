@@ -1,6 +1,6 @@
 # OSSU CS Degree Dashboard
 
-A web app that will help students of the [OSSU CS Degree Program](https://github.com/ossu/computer-science) keep track of their progress with an interactive dashboard, communicate with other students through a chat feature, and have access to a mentor all within one simple interface. 
+A web app that will help students of the [OSSU CS Degree Program](https://github.com/ossu/computer-science) keep track of their progress with an interactive dashboard, communicate with other students through a chat feature, and have access to a mentor all within one simple interface.
 
 ## The Vision
 
@@ -15,7 +15,7 @@ A web app that will help students of the [OSSU CS Degree Program](https://github
   * Jedi Knight - Advanced CS
   * Jedi Master - Final project
   * Jedi Councilor - Pro CS
-* Once intro to cs is completed, matched with a mentor (anyone who has completed Core CS or acheived rank of Jedi Knight or higher) to verify that work is being completed and answer questions.
+* After completion of each course, maybe a test can be created to officially pass?
 * Message board for each class
 * List or web of classes available based on progress. i.e. Only show classes that user has completed the prereqs for.
 * Dynamic way to update curriculum. (Scrape from github? API's from class website? etc.?)
@@ -29,7 +29,7 @@ A web app that will help students of the [OSSU CS Degree Program](https://github
 
 ## Contributing
 
-Open to new ideas about structure of the project, theme, curriculum, etc. The more help the better. 
+Open to new ideas about structure of the project, theme, curriculum, etc. The more help the better.
 
 ## Authors
 
